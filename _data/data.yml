@@ -7,13 +7,13 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Luis Fernando Gómez Hinojosa # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: luis.gh8907@gmail.com
+  phone:  3121405004
   website: # No agregar http://
   linkedin: brightcoders
   github: brightcoders
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -46,6 +43,13 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Problem solving
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -54,35 +58,49 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Business management engineer
+    university: Instituto Tecnologico de Colima
+    time: 2011 – 2015
     details: |
+      Professional ID: 9967472
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Javascript School
+    university: Platzi (On line)
+    time: 2020 - Actual
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      
+  - degree: Internship
+    company: Agile Thought
+    time: August 2020 - December 2020
+    details: 
+    |
+      Front-end Developer/Internship
+        
+        Worked on the Agile Thought Projects: University, Resources and SSO
+        - Used Agile Scrum methodology. 
+        - Developed POST and GET endpoints.
+        - Creation of forms with HTML and Bootstrap.
+        - Implementation of a new view for the section "Our team"
+        - Creation of views and routes to save stories.
+        - Exposure and development with JavaScript and NodeJs.
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+  - degree: Internship
+    company: Continental Automotive, Santa Anita
+    time: August 2015 - December 2015
+    details: 
+    |
+      Project manager at Continental Automotive, Santa Anita.
+        August 2015 to December 2015
+        Leader of the Driver State Model project. 
+        This project was carried out in order to analyze and create a link between the user and a brain wave 
+        sensor, examining signals and identifying the correlation between these and the state of the driver.
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+        Specific activities:
+        - Carry out project documentation.
+        - Control and schedule team activities.
+        - Collaborate in test planning and prototype presentation.
+        - Feasibility and application interviews.
+        - Development of the project value model.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
