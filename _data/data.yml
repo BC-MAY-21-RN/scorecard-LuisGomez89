@@ -58,7 +58,7 @@ career-profile:
     I consider myself a person passionate about self-learning, someone who wants to go beyond his limits, and always wants to discover new things.
     I am always ready to collaborate and help other people in all necessary areas.
 
-# Registra aquí tus estudios. Agrega o elimina según sea necesario
+# Registra aquí tus estudios. Agrega o elimina según seagi necesario
 educationcomplete:
   - degree: Business management engineer
     university: Instituto Tecnologico de Colima
@@ -70,7 +70,7 @@ educationcomplete:
     university: Platzi (On line)
     time: 2020 - Actual
     details: |
-      
+
   - degree: Internship
     company: Continental Automotive, Santa Anita
     time: August 2015 - December 2015
@@ -100,7 +100,7 @@ experiences:
 
         We are working with the Learn by Doing methodology, where we collaborate at the same time with other teams to develop applications in React native.
 
-- role: Frontend Developer (junior)
+  - role: Frontend Developer (junior)
     time: August 2020 - December 2020
     company: Agile Thought, Colima, Mexico
     details: |
