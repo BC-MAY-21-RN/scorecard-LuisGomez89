@@ -54,7 +54,9 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+   I am a business management engineer, but with a tendency to become a software developer, since I discovered that I am fascinated by the world of technologies.
+    I consider myself a person passionate about self-learning, someone who wants to go beyond his limits, and always wants to discover new things.
+    I am always ready to collaborate and help other people in all necessary areas.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -104,31 +106,6 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -140,23 +117,18 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
+    - name: Javascript
+      level: 40%
+
+    - name: HTML
+      level: 40%
+
+    - name: CSS
+      level: 40%
+
+    - name: React
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
-      level: 40%
 
 # NO MODIFICAR
 footer: >
