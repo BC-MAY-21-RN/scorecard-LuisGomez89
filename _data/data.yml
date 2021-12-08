@@ -15,11 +15,11 @@ sidebar:
   email: luis.gh8907@gmail.com
   phone:  3121405004
   website: # No agregar http://
-  linkedin: Luis Fernando Gómez Hinojosa
-  github: LuisGomez89
+  linkedin: https://www.linkedin.com/in/luis-fernando-g%C3%B3mez-hinojosa-234547167/
+  github: https://github.com/LuisGomez89
   gitlab:
   bitbucket:
-  twitter: '@LuisDelValhalla'
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -62,7 +62,7 @@ career-profile:
 educationcomplete:
   - degree: Business management engineer
     university: Instituto Tecnologico de Colima
-    time: 2011 – 2015
+    time: 2011 - 2015
     details: |
       Professional ID: 9967472
 
