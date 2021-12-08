@@ -15,11 +15,11 @@ sidebar:
   email: luis.gh8907@gmail.com
   phone:  3121405004
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Luis Fernando Gómez Hinojosa
+  github: LuisGomez89
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@LuisDelValhalla'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -72,21 +72,6 @@ educationcomplete:
     details: |
       
   - degree: Internship
-    company: Agile Thought
-    time: August 2020 - December 2020
-    details: 
-    |
-      Front-end Developer/Internship
-        
-        Worked on the Agile Thought Projects: University, Resources and SSO
-        - Used Agile Scrum methodology. 
-        - Developed POST and GET endpoints.
-        - Creation of forms with HTML and Bootstrap.
-        - Implementation of a new view for the section "Our team"
-        - Creation of views and routes to save stories.
-        - Exposure and development with JavaScript and NodeJs.
-
-  - degree: Internship
     company: Continental Automotive, Santa Anita
     time: August 2015 - December 2015
     details: 
@@ -106,6 +91,29 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
+  - role: React Native Mobile Developer (junior)
+    time: November 2021 - Present
+    company: Brightcoders
+    details: |
+    
+      Jr. Mobile Developer
+
+        We are working with the Learn by Doing methodology, where we collaborate at the same time with other teams to develop applications in React native.
+
+- role: Frontend Developer (junior)
+    time: August 2020 - December 2020
+    company: Agile Thought, Colima, Mexico
+    details: |
+    
+      Jr. Frontend Developer
+
+        Worked on the Agile Thought Projects: University, Resources and SSO
+        - Used Agile Scrum methodology. 
+        - Developed POST and GET endpoints.
+        - Creation of forms with HTML and Bootstrap.
+        - Implementation of a new view for the section "Our team"
+        - Creation of views and routes to save stories.
+        - Exposure and development with JavaScript and NodeJs.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -127,6 +135,9 @@ skills:
       level: 40%
 
     - name: React
+      level: 20%
+
+    - name: React Native
       level: 20%
 
 
